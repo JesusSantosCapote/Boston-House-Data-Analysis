@@ -32,6 +32,3 @@ The project details are broken down into the following sections:
 3. **Statistical Tests**: Detailed description of the tests conducted and their results.
 4. **Conclusion**: Summary of findings and their implications for decision-making.
 
----
-
-Espero que esto sea útil para tu proyecto en GitHub. Si necesitas más ajustes o tienes alguna otra solicitud, no dudes en decírmelo. 😊✨
